@@ -1,11 +1,11 @@
 import pymysql
 
-TOKEN = '6566067886:AAGgoXMx9LDKo2ONQ69v7mF4p8u_GAYPckE'
+TOKEN = 'your bot token'
 
 db_config = {
     'host': 'localhost',
-    'user': 'root',
-    'password': 'root',
+    'user': 'username',
+    'password': 'pass',
     'database': 'fc_db',
     'autocommit': True,
 }
